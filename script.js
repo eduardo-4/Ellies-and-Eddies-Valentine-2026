@@ -1,13 +1,13 @@
 const gifStages = [
-    "photo0.jpg",
-    "photo1.jpg",
-    "photo2.jpg",
-    "photo3.jpg",
-    "photo4.jpg",
-    "photo5.jpg",
-    "photo6.jpg",
-    "photo7.jpg",
-    "photo8.jpg"
+    "photo0.jpeg",
+    "photo1.jpeg",
+    "photo2.jpeg",
+    "photo3.jpeg",
+    "photo4.jpeg",
+    "photo5.jpeg",
+    "photo6.jpeg",
+    "photo7.jpeg",
+    "photo8.jpeg"
 ]
 
 const noMessages = [
